@@ -1,0 +1,6 @@
+[submodule "mext_encoder_stm32"]
+	path = mext_encoder_stm32
+	url = git@github.com:miuele/mext_encoder_stm32.git
+[submodule "eaux"]
+	path = eaux
+	url = git@github.com:miuele/eaux.git
